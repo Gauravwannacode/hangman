@@ -1,3 +1,4 @@
+#THIS CODE DOES NOT WORK, TEST RUN WORKS PERFECTLY.
 import random
 
 fruits = ("apple", "orange", "banana", "pineapple", "grape")
@@ -100,3 +101,4 @@ def hangman():
 
 if __name__ == "__hangman__":
     hangman()
+
